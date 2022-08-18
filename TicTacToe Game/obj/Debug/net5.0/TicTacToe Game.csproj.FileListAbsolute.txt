@@ -1,0 +1,16 @@
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\bin\Debug\net5.0\TicTacToe Game.exe
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\bin\Debug\net5.0\TicTacToe Game.deps.json
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\bin\Debug\net5.0\TicTacToe Game.runtimeconfig.json
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\bin\Debug\net5.0\TicTacToe Game.runtimeconfig.dev.json
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\bin\Debug\net5.0\TicTacToe Game.dll
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\bin\Debug\net5.0\TicTacToe Game.pdb
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\obj\Debug\net5.0\TicTacToe Game.csproj.AssemblyReference.cache
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\obj\Debug\net5.0\TicTacToe Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\obj\Debug\net5.0\TicTacToe Game.AssemblyInfoInputs.cache
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\obj\Debug\net5.0\TicTacToe Game.AssemblyInfo.cs
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\obj\Debug\net5.0\TicTacToe Game.csproj.CoreCompileInputs.cache
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\obj\Debug\net5.0\TicTacToe Game.dll
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\obj\Debug\net5.0\refint\TicTacToe Game.dll
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\obj\Debug\net5.0\TicTacToe Game.pdb
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\obj\Debug\net5.0\TicTacToe Game.genruntimeconfig.cache
+E:\HP\Master C#_Denis2022\TicTacToe Game\TicTacToe Game\obj\Debug\net5.0\ref\TicTacToe Game.dll
